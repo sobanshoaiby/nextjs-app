@@ -1,2 +1,2 @@
 # nextjs-app
-My Next JS repository on GitHub.
+My Next JS repository for demo
